@@ -18,7 +18,7 @@
 
 ## 🛠 Навыки
 
-<p align="center"><img src="https://skillicons.dev/icons?i=go,docker,redis,postgresql,mysql,mongodb,rabbitmq,prometheus,grafana&perline=8" alt="skills"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=go,docker,redis,postgresql,mysql,mongodb,rabbitmq,prometheus,grafana" alt="skills"></p>
 
 - **Go** — горутины, каналы, generics, context, error handling  
 - **Web & API** — Gin, REST, gRPC/Protobuf, JWT (HS256), bcrypt, middleware  
